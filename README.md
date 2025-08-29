@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grazielle30&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=grazielle30&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=graziellegualter&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=graziellegualter&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" />
 
 </div>
 
